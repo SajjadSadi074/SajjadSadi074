@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋, I'm Sajjad
 
-<!--
-**SajjadSadi074/SajjadSadi074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a backend engineer, currently working on appscode, focused on building scalable systems using **Go (Golang)** and **Kubernetes**.
 
-Here are some ideas to get you started:
+- 🔧 Backend development with Go
+- ☸️ Kubernetes & containerized systems
+- 🔐 Authentication systems (JWT)
+- 🗄️ Database management
+- ⚙️ API design & development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Go (Golang)
+- Bash
+- C++
+- Python
+
+**Backend & Tools**
+- REST APIs
+- JWT Authentication
+- git
+
+**DevOps & Cloud**
+- Kubernetes
+- Docker
+
+**Databases**
+- Oracle Database
+- Cassandra Database
+
+---
+
+## 📂 Projects
+
+### Oracle
+
+### Cassandra
+
+### 📚 Book Author API
+- REST API built with Go
+- JWT-based authentication
+- CRUD operations for books & authors
+- Built using `chi` and `jwtauth`
+
+---
+
+## 📈 What I'm Working On
+- Improving API architecture and design
+- Deep dive into Kubernetes client-go
+- Building scalable backend systems
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/SajjadSadi074
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving backend problems and building systems that actually scale.
